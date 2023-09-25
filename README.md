@@ -6,4 +6,4 @@ The an end-of-course project has been developed by professionals from: UX UI pro
 
 This repo will show the role of the Cloud team in the project.
 
-![Cloud Architecture of the project](https://drive.google.com/file/d/1OfWwRyNne-WCOHulhe6-dPFZUtYFCXQG/view)
+![Cloud Architecture of the project](https://drive.google.com/uc?export=download&id=1OfWwRyNne-WCOHulhe6-dPFZUtYFCXQG)
